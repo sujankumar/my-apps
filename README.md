@@ -1,4 +1,4 @@
-my-apps
+Socialnetwork
 =======
 
-simple facebook apps in php mysql and twitter bootstrap3
+simple socialnetwork app using php mysql and twitter bootstrap3
